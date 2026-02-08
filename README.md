@@ -12,22 +12,14 @@ The main purpose of this project is:
 - Translate abstract constraints into program logic
 - Visualize the problem using a graphical interface
 
-### 🗂️ Project Structure
-----------------------------
-robot-puzzle-challenge/
-|-- assets/ 
-|-- src/
-| |-- LogicPuzzleGUI.java
-| |-- ImagePanel.java
-|-- .gitignore
-|-- README.md
-
 ### ▶️ How to Run the Program
+----------------------------
 1. Open the project in Visual Studio Code
 2. Make sure Java JDK is installed
 3. Run 'LogicPuzzleGUI.java'
 
-### Screenshots
+### ▶️ Screenshots
+----------------------------
 #### Main Interface
 ![Main Interface](screenshots/main-ui.png)
 
@@ -35,4 +27,5 @@ robot-puzzle-challenge/
 ![Puzzle Interaction](screenshots/puzzle-interaction.png)
 
 ### 📌 Notes
+----------------------------
 This project is created for **academic purposes** as part of the CSC510 coursework.
